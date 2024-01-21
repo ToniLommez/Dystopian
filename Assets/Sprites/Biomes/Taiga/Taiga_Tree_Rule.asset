@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a55b5aadad9af124dbdfe112e13df410, type: 3}
+  m_Name: Taiga_Tree_Rule
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 581023877, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: 581023877, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -1160452603, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 1442404965, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -1214796626, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -838982109, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 1312724110, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 790118633, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -2104282668, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -2139577139, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -1030489179, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 548102435, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 581023877, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -1160452603, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 1442404965, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 581023877, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: -1160452603, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    - {fileID: 1442404965, guid: 647cda49d3afc7649b2ac2dc6d987444, type: 3}
+    m_GameObject: {fileID: 2414452566456448817, guid: c6b35f6e389133a4dbbdb6cdddde80d4,
+      type: 3}
+    m_MinAnimationSpeed: 1
+    m_MaxAnimationSpeed: 1
+    m_PerlinScale: 0.919
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 2
+    m_Neighbors: 
+    m_NeighborPositions: []
+    m_RuleTransform: 0
+  alwaysConnect: 1
+  tilesToConnect:
+  - {fileID: 11400000, guid: 0ec241e475e6f6a4884090c1875e72f4, type: 2}
+  checkSelf: 1
